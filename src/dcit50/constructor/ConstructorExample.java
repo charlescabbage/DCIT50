@@ -12,7 +12,6 @@ public class ConstructorExample {
         /**
          * Constructor overloading - Different ways of initializing objects
          */
-        
         Rectangle rectA = new Rectangle(new Point(10, 20));
         // x = 10, y = 20
         

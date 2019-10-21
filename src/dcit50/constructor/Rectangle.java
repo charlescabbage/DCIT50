@@ -33,7 +33,7 @@ public class Rectangle {
     
     @Override
     public String toString() {
-        return "[" + String.valueOf(p.x) + "," + String.valueOf(p.y) + "," +
-                String.valueOf(w) + "," + String.valueOf(l) + "]";
+        return "[x=" + String.valueOf(p.x) + ",y=" + String.valueOf(p.y) +
+               ",w=" + String.valueOf(w) + ",l=" + String.valueOf(l) + "]";
     }
 }
